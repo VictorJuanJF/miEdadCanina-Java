@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 String ageString=age_edit.getText().toString();
                 int ageInt=Integer.parseInt(ageString);
 
-                answer_text.setText("Si fuera perro, tu edad seria de: "+(ageInt*6));
+                answer_text.setText("Si fuera bruss, tu edad seria de: "+(ageInt*6));
 
 
             }
